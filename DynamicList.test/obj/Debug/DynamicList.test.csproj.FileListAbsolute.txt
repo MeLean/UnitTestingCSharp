@@ -1,0 +1,7 @@
+G:\SotUni\QCode\09. Unit-Testing-Homework\09. Unit-Tests-Homework\CustomeLinedList\DynamicList.test\bin\Debug\DynamicList.test.dll
+G:\SotUni\QCode\09. Unit-Testing-Homework\09. Unit-Tests-Homework\CustomeLinedList\DynamicList.test\bin\Debug\DynamicList.test.pdb
+G:\SotUni\QCode\09. Unit-Testing-Homework\09. Unit-Tests-Homework\CustomeLinedList\DynamicList.test\bin\Debug\CustomLinkedList.dll
+G:\SotUni\QCode\09. Unit-Testing-Homework\09. Unit-Tests-Homework\CustomeLinedList\DynamicList.test\bin\Debug\CustomLinkedList.pdb
+G:\SotUni\QCode\09. Unit-Testing-Homework\09. Unit-Tests-Homework\CustomeLinedList\DynamicList.test\obj\Debug\DynamicList.test.csprojResolveAssemblyReference.cache
+G:\SotUni\QCode\09. Unit-Testing-Homework\09. Unit-Tests-Homework\CustomeLinedList\DynamicList.test\obj\Debug\DynamicList.test.dll
+G:\SotUni\QCode\09. Unit-Testing-Homework\09. Unit-Tests-Homework\CustomeLinedList\DynamicList.test\obj\Debug\DynamicList.test.pdb
